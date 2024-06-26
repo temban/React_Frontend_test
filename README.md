@@ -1,3 +1,5 @@
+![Screenshot (1000)](https://github.com/temban/React_Frontend_test/assets/76685729/63f4b188-5034-48ce-b3c7-8bb4b441e754)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -18,9 +20,6 @@ You will also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-![Screenshot (1000)](https://github.com/temban/React_Frontend_test/assets/76685729/63f4b188-5034-48ce-b3c7-8bb4b441e754)
-
 
 ### `yarn build`
 
